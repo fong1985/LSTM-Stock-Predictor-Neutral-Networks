@@ -1,0 +1,10 @@
+Which model has a lower loss?
+LSTM Stock Predictor
+
+Which model tracks the actual value better over time?
+LSTM Stock Predictor
+
+Which window size works best for the model?
+I tried 10 - 50 window sizes.
+LSTM Stock Predictor predicts better with higher
+FNG Stock Predictor becomes less accurate with more window size
